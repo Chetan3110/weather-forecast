@@ -27,3 +27,5 @@ This project utilizes machine learning and deep learning to predict weather cond
 
 - **`main.py`**  
   Main script to run the entire pipeline.
+
+Kaggle Link: https://www.kaggle.com/code/chetan0361/weather-predictions
