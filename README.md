@@ -40,8 +40,8 @@ Ensure you have the following installed:
 ## Installation
 
 1. Clone the repository:
-  git clone https://github.com/your-username/weather-prediction-project.git
-  cd weather-prediction-project
+  git clone https://github.com/Chetan3110/weather-forecast.git
+  cd weather-forecast
 
 2. Create a virtual environment and activate it:
   python -m venv venv
