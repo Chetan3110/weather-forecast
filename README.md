@@ -6,14 +6,12 @@ This project predicts weather conditions in Nagaland using machine learning and 
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Directory Structure](#directory-structure)
-3. [Requirements](#requirements)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Pipeline Details](#pipeline-details)
-7. [Results](#results)
-8. [Contributing](#contributing)
-9. [License](#license)
+2. [Requirements](#requirements)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Pipeline Details](#pipeline-details)
+6. [References](#references)
+
 
 ---
 
